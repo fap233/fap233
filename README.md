@@ -68,7 +68,7 @@ Here are some of the projects that best represent my current skills:
       <h3 align="center"><a href="https://github.com/fap233/fullstack-notas">📝 GoNotes App</a></h3>
       <p align="center">High-performance notes API using Go Standard Library.</p>
       <p align="center">
-        <code>GoLang</code> <code>React</code> <code>TypeScript</code>
+        <code>Go</code> <code>React</code> <code>TypeScript</code>
       </p>
     </td>
     <td width="33%">
