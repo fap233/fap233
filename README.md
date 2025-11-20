@@ -27,13 +27,3 @@ I am currently studying **Systems Analysis and Development** and actively applyi
   </tr>
 </table>
 
-
-### 🚧 What I'm Currently Building
-
-Currently, I'm focused on developing **HydraSMM**, a comprehensive e-commerce platform for digital services. This project is allowing me to deepen my skills in:
-
-* **Full Stack Development** (React, NestJS, PostgreSQL, Prisma, JWT)
-* **API Integration**
-* **Database Design**
-* **Agile Methodologies** (Kanban with GitHub Projects)
-
