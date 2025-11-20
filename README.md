@@ -83,29 +83,20 @@ Here are some of the projects that best represent my current skills:
 
 ---
 
-### 📊 GitHub Stats
 
- <table width="100%">
+### 📊 My GitHub Stats
 
+
+<table width="100%">
   <tr>
-
     <td width="50%" align="center">
-
-
+      
 [![Fellipe Pavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fap233&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/fap233/github-readme-stats)
 
- </td>
-
- 
-
- <td width="50%" align="center">
-
+ </td> 
+ <td width="50%" align="center"> 
    
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fap233&layout=compact&theme=dark)](https://github.com/fap233/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fap233&layout=compact&theme=dark)](https://github.com/fap233/github-readme-stats)   
     </td>
-
   </tr>
-
 </table> 
