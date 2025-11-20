@@ -65,17 +65,17 @@ Here are some of the projects that best represent my current skills:
       </p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/fap233/smmstore-ecommerce-website">🛒 SMMStore Platform</a></h3>
-      <p align="center">Full-stack e-commerce with secure auth and admin dashboard.</p>
+      <h3 align="center"><a href="https://github.com/fap233/fullstack-notas">📝 GoNotes App</a></h3>
+      <p align="center">High-performance notes API using Go Standard Library.</p>
       <p align="center">
-        <code>Node.js</code> <code>TypeScript</code> <code>Prisma</code> <code>React</code>
+        <code>Go (Std Lib)</code> <code>React</code> <code>TypeScript</code> <code>Memory Store</code>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/fap233/schedulingapi">📅 Scheduling API</a></h3>
-      <p align="center">High-performance REST API for booking systems.</p>
+      <h3 align="center"><a href="https://github.com/fap233/pavin-me-v2">🌐 Pavin.me Portfolio</a></h3>
+      <p align="center">Modern portfolio with high SEO performance and Shadcn UI.</p>
       <p align="center">
-        <code>.NET 9</code> <code>C#</code> <code>EF Core</code> <code>SQL Server</code>
+        <code>Next.js</code> <code>Tailwind CSS</code> <code>React</code> <code>SEO</code>
       </p>
     </td>
   </tr>
