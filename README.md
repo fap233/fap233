@@ -12,7 +12,7 @@
   <a href="https://pavin.me">
     <img src="https://img.shields.io/badge/Portfolio-pavin.me-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:fellipe306@gmail.com">
+  <a href="mailto:fellipepavin.ads@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
