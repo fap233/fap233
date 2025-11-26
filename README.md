@@ -19,11 +19,11 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me (O Novo Foco)
 
-I am a **Software Developer** with a unique background: I spent **6 years as a Founder & Product Developer** building and scaling a digital platform to over **10,000 active clients**. During this time, I handled everything from product strategy and full-stack development (PHP/Laravel) to Linux server management and high-traffic scaling.
+Eu sou um estudante de **Análise e Desenvolvimento de Sistemas** com forte base prática, buscando minha primeira oportunidade formal de estágio. Sou apaixonado por construir aplicações web escaláveis, escrevendo **código limpo e modular**.
 
-Currently, I am pivoting my career to focus on **Software Engineering** within established teams. I am channeling my product experience into mastering modern, high-performance stacks like **Go (Golang)**, **Node.js**, and **.NET**, with a strong emphasis on clean architecture, distributed systems, and cloud infrastructure.
+Minha experiência em projetos práticos demonstra proficiência em stacks de alta demanda no mercado corporativo, como **C# (.NET Core)**, **React.js**, **Node.js** e **SQL**. Tenho profundo interesse em Engenharia de Sustentação, **DevOps** e em aprender metodologias ágeis em um ambiente de equipe. Meu objetivo é formalizar minha vivência técnica e aplicar meu conhecimento em resolução de problemas em larga escala.
 
 * 🔭 **I’m currently working on:** A full-stack Kanban platform in Go & React.
 * 🌱 **I’m currently learning:** Advanced Go concurrency patterns and Microservices architecture.
@@ -76,6 +76,31 @@ Here are some of the projects that best represent my current skills:
       <p align="center">Modern portfolio with high SEO performance and Shadcn UI.</p>
       <p align="center">
         <code>Next.js</code> <code>Tailwind CSS</code> <code>React</code> <code>SEO</code>
+      </p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/fap233/schedulingapi">Agendamento API (C#)</a></h3>
+      <p align="center">Microsserviço RESTful em .NET Core com EF Core e SQL Server.</p>
+      <p align="center">
+        <code>C#</code> <code>ASP.NET Core</code> <code>SQL Server</code> <code>EF Core</code>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/fap233/smmstore-ecommerce-website">Sistema de Gestão (Node.js/React)</a></h3>
+      <p align="center">Plataforma Full Stack com painel administrativo e autenticação JWT.</p>
+      <p align="center">
+        <code>Node.js</code> <code>TypeScript</code> <code>React</code> <code>PostgreSQL</code>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Java ATM Simulator (Novo!)</h3>
+      <p align="center">Aplicação de console para demonstrar domínio em Programação Orientada a Objetos.</p>
+      <p align="center">
+        <code>Java</code> <code>OOP</code> <code>Classes</code> <code>Console</code>
       </p>
     </td>
   </tr>
