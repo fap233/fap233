@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Fellipe Pavin 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Software Developer | Ex-Founder & Product Developer</strong><br>
+  <strong>Full Stack Software Developer</strong><br>
   <i>Building scalable systems with Go, TypeScript, and .NET</i>
 </p>
 
