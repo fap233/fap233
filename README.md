@@ -19,11 +19,11 @@
 
 ---
 
-### 🚀 About Me (O Novo Foco)
+### 🚀 About Me
 
-Eu sou um estudante de **Análise e Desenvolvimento de Sistemas** com forte base prática, buscando minha primeira oportunidade formal de estágio. Sou apaixonado por construir aplicações web escaláveis, escrevendo **código limpo e modular**.
+am a student of **Systems Analysis and Development** seeking my first formal Software Engineering internship. I am highly motivated to build scalable web applications and focus on **clean, sustainable code**.
 
-Minha experiência em projetos práticos demonstra proficiência em stacks de alta demanda no mercado corporativo, como **C# (.NET Core)**, **React.js**, **Node.js** e **SQL**. Tenho profundo interesse em Engenharia de Sustentação, **DevOps** e em aprender metodologias ágeis em um ambiente de equipe. Meu objetivo é formalizar minha vivência técnica e aplicar meu conhecimento em resolução de problemas em larga escala.
+My personal projects demonstrate strong proficiency in the most demanded corporate stacks, including **C# (.NET Core)**, **Java/OOP**, **React.js**, and **SQL**. I have a deep interest in **Software Sustaining Engineering**, **DevOps**, and contributing to agile teams. My primary goal is to formalize my practical technical skills and continuously learn best practices in a professional engineering environment.
 
 * 🔭 **I’m currently working on:** A full-stack Kanban platform in Go & React.
 * 🌱 **I’m currently learning:** Advanced Go concurrency patterns and Microservices architecture.
@@ -40,6 +40,9 @@ Minha experiência em projetos práticos demonstra proficiência em stacks de al
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 **Databases & Infrastructure**
 <br>
@@ -48,6 +51,7 @@ Minha experiência em projetos práticos demonstra proficiência em stacks de al
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux_(Arch)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
@@ -83,24 +87,24 @@ Here are some of the projects that best represent my current skills:
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/fap233/schedulingapi">Agendamento API (C#)</a></h3>
-      <p align="center">Microsserviço RESTful em .NET Core com EF Core e SQL Server.</p>
+      <h3 align="center"><a href="https://github.com/fap233/schedulingapi">Scheduling API (C#)</a></h3>
+      <p align="center">RESTful API microservice built with .NET Core and high-demand stacks.</p>
       <p align="center">
         <code>C#</code> <code>ASP.NET Core</code> <code>SQL Server</code> <code>EF Core</code>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/fap233/smmstore-ecommerce-website">Sistema de Gestão (Node.js/React)</a></h3>
-      <p align="center">Plataforma Full Stack com painel administrativo e autenticação JWT.</p>
+      <h3 align="center"><a href="https://github.com/fap233/smmstore-ecommerce-website">Management System (Node.js/React)</a></h3>
+      <p align="center">Full-Stack platform with admin dashboard and secure JWT authentication.</p>
       <p align="center">
         <code>Node.js</code> <code>TypeScript</code> <code>React</code> <code>PostgreSQL</code>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Java ATM Simulator (Novo!)</h3>
-      <p align="center">Aplicação de console para demonstrar domínio em Programação Orientada a Objetos.</p>
+      <h3 align="center">Java ATM Simulator (OOP)</h3>
+      <p align="center">Console application demonstrating mastery of Object-Oriented Programming (OOP) principles.</p>
       <p align="center">
-        <code>Java</code> <code>OOP</code> <code>Classes</code> <code>Console</code>
+        <code>Java</code> <code>OOP</code> <code>Classes</code> <code>Unit Tests</code>
       </p>
     </td>
   </tr>
@@ -112,16 +116,9 @@ Here are some of the projects that best represent my current skills:
 ### 📊 My GitHub Stats
 
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      
-[![Fellipe Pavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fap233&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/fap233/github-readme-stats)
-
- </td> 
- <td width="50%" align="center"> 
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fap233&layout=compact&theme=dark)](https://github.com/fap233/github-readme-stats)   
-    </td>
-  </tr>
-</table> 
+<div align="center">
+  <a href="https://github.com/fap233">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fap233&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fap233&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+  </a>
+</div>
