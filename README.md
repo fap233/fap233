@@ -20,8 +20,7 @@
 ---
 
 ### 🚀 About Me
-
-am a student of **Systems Analysis and Development** seeking my first formal Software Engineering internship. I am highly motivated to build scalable web applications and focus on **clean, sustainable code**.
+I am highly motivated to build scalable web applications and focus on **clean, sustainable code**.
 
 My personal projects demonstrate strong proficiency in the most demanded corporate stacks, including **C# (.NET Core)**, **Java/OOP**, **React.js**, and **SQL**. I have a deep interest in **Software Sustaining Engineering**, **DevOps**, and contributing to agile teams. My primary goal is to formalize my practical technical skills and continuously learn best practices in a professional engineering environment.
 
