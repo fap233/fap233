@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer | Full Stack (Go & React)</strong><br>
-  <i>Ex-Founder pivoting to High-Performance Engineering & Distributed Systems</i>
+  <i>Ex-Founder (6+ years experience shipping SaaS)</i>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** with a unique background: I spent **6 years as a Founder & Tech Lead** building and scaling a digital platform to over **10,000 active clients**. During this time, I handled everything from product strategy and full-stack development (PHP/Laravel) to Linux server management and high-traffic scaling.
+I am a **Software Engineer** with a unique background: I spent **6 years as a Founder, Fullstack Developer & Tech Lead** building and scaling a digital platform to over **10,000 active clients**. During this time, I handled everything from product strategy and full-stack development (PHP/Laravel) to Linux server management and high-traffic scaling.
 
 Currently, I am pivoting my career to focus on **Software Engineering** within established teams. I am channeling my product experience into mastering modern, high-performance stacks like **Go (Golang)** and **React Ecosystem**, with a strong emphasis on clean architecture and cloud infrastructure.
 
@@ -90,10 +90,25 @@ I focus on quality over quantity. These projects demonstrate my ability to archi
 ---
 
 ### 📊 GitHub Stats
+ <table width="100%">
 
-<div align="center">
-  <a href="https://github.com/fap233">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fap233&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fap233&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" />
-  </a>
-</div>
+  <tr>
+    <td width="50%" align="center">
+
+      
+
+[![Fellipe Pavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fap233&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/fap233/github-readme-stats)
+
+ </td> 
+
+ <td width="50%" align="center"> 
+
+   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fap233&layout=compact&theme=dark)](https://github.com/fap233/github-readme-stats)   
+
+  </td>
+
+  </tr>
+
+</table>  
