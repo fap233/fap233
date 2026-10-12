@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** with a unique background: I spent **6 years as a Founder, Fullstack Developer & Tech Lead** building and scaling a digital platform to over **10,000 active clients**. During this time, I handled everything from product strategy and full-stack development (PHP/Laravel) to Linux server management and high-traffic scaling.
+I am a **Software Engineer** with a unique background: I spent **9 years as a Founder, Fullstack Developer & Tech Lead** building and scaling a digital platform to over **10,000 active clients**. During this time, I handled everything from product strategy and full-stack development (PHP/Laravel) to Linux server management and high-traffic scaling.
 
 Currently, I am pivoting my career to focus on **Software Engineering** within established teams. I am channeling my product experience into mastering modern, high-performance stacks like **Go (Golang)** and **React Ecosystem**, with a strong emphasis on clean architecture and cloud infrastructure.
 
