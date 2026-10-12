@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer | Full Stack (Go & React)</strong><br>
-  <i>Ex-Founder (6+ years experience shipping SaaS)</i>
+  <i>Ex-Founder (9+ years experience shipping SaaS)</i>
 </p>
 
 <p align="center">
